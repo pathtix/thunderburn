@@ -1,4 +1,4 @@
-# 🌍 Trailblazer
+# 🌍 Thunderburn
 
 **Prompt → Token Count → Cost Estimate → Environmental Impact → Optimisation Tips**
 
